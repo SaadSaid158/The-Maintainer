@@ -696,3 +696,6 @@ footer a:hover {
         font-size: 35px;
     }
 }
+.background {
+    border-radius: 15px;
+}
