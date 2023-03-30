@@ -111,7 +111,9 @@ html, body {
     background: var(--dark-grey);
     color: var(--light);
 }
-
+.background {
+    border-radius: 15px;
+}
 a {
     text-decoration: none;
     color: var(--primary);
@@ -695,7 +697,4 @@ footer a:hover {
     .hey p {
         font-size: 35px;
     }
-}
-.background {
-    border-radius: 15px;
 }
