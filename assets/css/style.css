@@ -111,7 +111,7 @@ html, body {
     background: var(--dark-grey);
     color: var(--light);
 }
-.background {
+img {
     border-radius: 15px;
 }
 a {
